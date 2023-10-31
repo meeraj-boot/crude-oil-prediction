@@ -6,3 +6,4 @@ pip install matplotlib
 pip install yfinance
 pip install pandas
 pip install scikit-learn
+pip install matplotlib
